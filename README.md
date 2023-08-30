@@ -1,2 +1,2 @@
 # Javascript
-learning javascript
+learning how to use github and javascript
